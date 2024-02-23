@@ -12,4 +12,5 @@ Emerson Felipe Félix
 Alexandre Ten Cate Matté
 Chiara Pinheiro Teodoro
 Thiago da Silva Costa Santos
+Vitor Freitas Gonçalvez
 ```
